@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./images/hexaebpf-logo.png" alt="HEXAeBPF Logo" width="300"/>
+</p>
+
+--- 
 
 # **HEXAeBPF: The Future of Interoperable eBPF Defined 5G Core (eDC)**
 *Empowering the next generation of 5G core deployments with simplicity, interoperability, and automation.*
